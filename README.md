@@ -6,6 +6,7 @@ API created to connect the STAFFBASE platform endpoints, responsible for creatin
 ## Additional information
 
 This repository corresponds to part of a larger project in which I am participating on GitHub.
+- [@Offboarding-System](https://github.com/Diogovx/Offboarding-System)
 
 ## Authors
 
